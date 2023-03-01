@@ -23,6 +23,13 @@ The repository contains the following files:
 
 <br>
 
+## Website and interactive maps 
+
+Users are invited to take a look at the OCVED website [https://www.ocved.mx/] where they can find a web interactive map applicaiton to analyze the spatial and temporal trends of Organized Criminal Groups in Mexico.
+
+
+<br>
+
 ## ML replication 
 
 For advanced users interested in getting the details of the Machine Learning algorithms used in this reserch, please consult Alejandro Beltran's GitHub repository: 
