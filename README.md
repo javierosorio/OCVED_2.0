@@ -27,7 +27,7 @@ The repository contains the following files:
 
 Please use the following citation:
 
-Osorio, Javier, and Beltrán, Aejandro. (2020). "Enhancing the Detection of Criminal Organizations in Mexico Using ML and NLP", \textit{2020 International Joint Conference on Neural Networks (IJCNN)}, Galsgow, UK, July, pp. 1-7, doi:10.1109/IJCNN48605.2020.9207039, [https://ieeexplore.ieee.org/document/9207039]
+Osorio, Javier, and Beltrán, Aejandro. (2020). "Enhancing the Detection of Criminal Organizations in Mexico Using ML and NLP", *2020 International Joint Conference on Neural Networks (IJCNN)*, Galsgow, UK, July, pp. 1-7, [doi:10.1109/IJCNN48605.2020.9207039], [https://ieeexplore.ieee.org/document/9207039]
 
 BibTeX:
 
