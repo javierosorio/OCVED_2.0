@@ -15,9 +15,9 @@ The resulting  database presents geo-referenced data at unprecedented levels of 
 
 The repository contains the following files:
 
-* *OCVED_2.0.xlsx* Is the Excel file containing the OCVED 2.0 database
-* *OCVED_methodology_2.0.pdf* Is the methodological note with the detailed procedures conducted to produce OCVED.
-* *actors_and_locations.xlsx* Is the codebook containing the list of Organized Criminal Groups included in COVED, as well as state and municipality codes.
+* **OCVED_2.0.xlsx** Is the Excel file containing the OCVED 2.0 database
+* **OCVED_methodology_2.0.pdf** Is the methodological note with the detailed procedures conducted to produce OCVED.
+* **actors_and_locations.xlsx** Is the codebook containing the list of Organized Criminal Groups included in COVED, as well as state and municipality codes.
 
 
 
@@ -31,19 +31,20 @@ Osorio, Javier, and Beltrán, Aejandro. (2020). "Enhancing the Detection of Crim
 
 BibTeX:
 
-> @article{Osorio2020,
-> author = {Osorio, Javier, and Beltrán, Aejandro},
-> title = {Enhancing the Detection of Criminal Organizations in Mexico Using ML and NL},
-> url = {https://ieeexplore.ieee.org/document/9207039},
-> Journal = {2020 International Joint Conference on Neural Networks,  IJCNN 2020},
-> pages = {1--7},
-> year = {2019},
-> month = {July},
-> doi = {10.1109/IJCNN48605.2020.9207039},
-> place = {Glasgow, UK}
-> }
-
-
+````{verbatim}
+@article{Osorio2020,
+author = {Osorio, Javier, and Beltrán, Aejandro},
+title = {Enhancing the Detection of Criminal Organizations in Mexico Using
+ML and NL},
+url = {https://ieeexplore.ieee.org/document/9207039},
+Journal = {2020 International Joint Conference on Neural Networks,  IJCNN 2020},
+pages = {1--7},
+year = {2019},
+month = {July},
+doi = {10.1109/IJCNN48605.2020.9207039},
+place = {Glasgow, UK}
+}
+````
 
 <br>
 
