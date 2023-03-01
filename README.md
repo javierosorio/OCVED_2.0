@@ -23,6 +23,13 @@ The repository contains the following files:
 
 <br>
 
+## ML replication 
+
+For advanced users interested in getting the details of the Machine Learning algorithms used in this reserch, please consult Alejandro Beltran's GitHub repository: 
+[https://github.com/AlejandroBeltranA/OCVED-ML]
+
+<br>
+
 ## How to cite
 
 Please use the following citation:
