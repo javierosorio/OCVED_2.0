@@ -41,8 +41,7 @@ BibTeX:
 ````{verbatim}
 @article{Osorio2020,
 author = {Osorio, Javier, and Beltrán, Aejandro},
-title = {Enhancing the Detection of Criminal Organizations in Mexico Using
-ML and NL},
+title = {Enhancing the Detection of Criminal Organizations in Mexico Using ML and NL},
 url = {https://ieeexplore.ieee.org/document/9207039},
 Journal = {2020 International Joint Conference on Neural Networks,  IJCNN 2020},
 pages = {1--7},
@@ -59,3 +58,11 @@ place = {Glasgow, UK}
 
 For comments and suggestions, please contact Javier Osorio: josorio1 at arizona dot edu
 
+Thank you!
+
+
+<br>
+
+<br>
+
+<br>
