@@ -63,7 +63,7 @@ place = {Glasgow, UK}
 
 ## Contact
 
-For comments and suggestions, please contact Javier Osorio: josorio1 at arizona dot edu
+For comments and suggestions, please contact Dr. Javier Osorio, School of Government and Public Policy, University of Arizona. Email: josorio1 at arizona dot edu
 
 Thank you!
 
